@@ -5,4 +5,4 @@
 
 ![](Images/pychain_ide.PNG)
 
-![](Images/pychain_validation.gif)
+![](Images/pychain_validation.PNG)
